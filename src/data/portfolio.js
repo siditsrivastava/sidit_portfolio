@@ -5,7 +5,8 @@ export const contact = {
   location: 'Gurugram, Haryana, India',
   linkedin: 'https://www.linkedin.com/in/sidit-srivastava',
   github: 'https://github.com/siditsrivastava',
-  resume: '/sidit-srivastava-resume.pdf',
+  resume: 'https://drive.google.com/file/d/18BIv9PpzgDepJZArGPXKPXXdBeOuuejg/view?usp=sharing',
+  resumeDownload: 'https://drive.google.com/uc?export=download&id=18BIv9PpzgDepJZArGPXKPXXdBeOuuejg',
 }
 
 export const projects = [

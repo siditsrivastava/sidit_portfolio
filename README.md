@@ -87,12 +87,12 @@ email sending and do not send real messages.
 
 | File | Purpose |
 | --- | --- |
-| `src/data/portfolio.js` | Projects, skills, experience, education, and contact details |
+| `src/data/portfolio.js` | Projects, skills, experience, education, contact details, and Google Drive resume view/download links |
 | `src/components/sections/IntroSections.jsx` | Hero heading and profile introduction |
 | `src/components/sections/Contact.jsx` | Contact form and submission messages |
 | `src/styles.css` | Portfolio styles and responsive layouts |
 | `src/Scene.jsx` | Three.js hero scene |
-| `public/sidit-srivastava-resume.pdf` | Downloadable resume |
+| `public/sidit-srivastava-resume.pdf` | Earlier local resume copy; current resume buttons use Google Drive |
 | `public/favicon.svg` | Browser-tab icon |
 | `index.html` | Page title, description, and favicon link |
 | `server/contact.js` | Email delivery and contact API validation |
